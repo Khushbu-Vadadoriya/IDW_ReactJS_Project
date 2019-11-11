@@ -1,0 +1,8 @@
+.navbar-brand {
+    color: white !important;
+}
+
+.form-inline {
+    margin: 20px;
+    justify-content: center
+}
